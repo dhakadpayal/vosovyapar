@@ -9,22 +9,20 @@
     background: #ddd;
     border-radius: 5px;
     color:black;
-    overflow: hidden;
-    
-    
 }
 .voso_logo{
     width: 10%;
  
 }
 .nav_margin{
-    padding-right: 30px;
+    padding-right: 20px;
     color:blue; 
 }
+@media screen and (max-width:1100px){
+    .maynav{
+        display: none;
+    }
+}
 
 
-@media (max-width: 767.98px){ 
-.mynav{
-    justify-content: flex-end;
-}
-}
+

@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 import './Footer.css';
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 
 import vosovyapar from '../../../public/images/voso.svg';
 
@@ -43,7 +43,7 @@ export default function Footer() {
   </div>
 </div>
     <div className='footer-inside'>© copyright 2023 by vosovyapar.com</div>
-    <FontAwesomeIcon icon="fa-brands fa-instagram" />
+   
    </>
   )
 }
