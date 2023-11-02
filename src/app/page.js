@@ -6,6 +6,10 @@ import Grid from './Grid/Grid';
 import Slider from './Slider/Slider';
 import Cerousol from './Cerousol/Cerousol';
 
+
+import Card from './Card/Card';
+import Footer from './Footer/Footer';
+
 export default function Home() {
   return (
     <>
@@ -14,7 +18,9 @@ export default function Home() {
     <Grid/>
     <Slider/>
     <Cerousol/>
-  
+    <Card/>
+    <Footer/>
+   
     </>
   )
 }

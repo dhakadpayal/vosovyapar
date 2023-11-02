@@ -1,0 +1,36 @@
+.colum-h{
+    height: 700px;
+    background-color: #f8f9fa;
+    margin-top: 100px;
+    border: 3px solid #ddd;
+    border-radius: 10px;
+}
+.line-sp{
+    margin-top: 50px ;
+}
+.color-c{
+    color: #f9e00f;
+    font-size: 3em;
+}
+.color-c2{
+    color: #01388c;
+}
+.button_setup1{
+    margin-left: 45px;
+    color:blue;
+    margin-top: 10px;
+}
+.button_setup1:hover{
+    background-color: blue;
+    color:#fff;
+}
+.colum-border{
+    border: 3px solid #01388c;
+}
+.prodesss-h{
+    height: 1px;
+    background-color: #ddd;
+}
+.prodesss-w{
+    width: 100%;
+}

@@ -1,0 +1,22 @@
+.footer-c{
+    background-color: #f8f9fa;
+}
+.box-footer{
+    width: 90%;
+    height: 120px;
+    background-color: #dddd;
+    margin-top: 100px;
+    border-radius: 2px solid #fff;
+    
+}.footer-inside{
+    margin-left: 550px;
+    margin-top: 20px;
+}
+.phone-n{
+
+    text-decoration: none;
+}
+.phone-n2{
+
+ color:black;   
+}

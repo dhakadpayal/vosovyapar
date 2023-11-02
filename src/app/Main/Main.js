@@ -8,7 +8,7 @@ export const Main = () => {
     <>
    
     <div>
-        <h1 className="container mt-5 text-setup">
+        <h1 className="container mt-5 text-setup banner-text-inne">
             Lounch Your <br></br>Buisness Online<br></br>in Just<></>10 Minites
         </h1>
         <p className="container">

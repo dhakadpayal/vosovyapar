@@ -1,11 +1,16 @@
+/* body{
+    background-color: #ddd;
+} */
 
 .mynav{
-    width:100%;  
+    width:90%;  
     margin: auto;
     margin-top: 10px;
     background: #ddd;
     border-radius: 5px;
     color:black;
+    overflow: hidden;
+    
     
 }
 .voso_logo{
@@ -16,8 +21,10 @@
     padding-right: 30px;
     color:blue; 
 }
-/* @media (max-width:400px) {
-    .maynav{
-        display:block;
-    }
-} */
+
+
+@media (max-width: 767.98px){ 
+.mynav{
+    justify-content: flex-end;
+}
+}
