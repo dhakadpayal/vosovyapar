@@ -1,0 +1,24 @@
+.text_setup{
+    font-size: larger;
+}
+.button_setup{
+    margin-left: 60px;
+    color:blue;
+    margin-top: 10px;
+}
+.button_setup:hover{
+    background-color: blue;
+    color:#fff;
+}
+.tree_set{
+    width: 30%;
+    margin-left: 800px;
+    margin-top: -140px;
+}
+.marqee-set{
+    background: linear-gradient(135deg, orange 60%, red);
+    color:#000;
+    height:50px;
+    line-height: 50px;
+    font-size: 2em;
+}

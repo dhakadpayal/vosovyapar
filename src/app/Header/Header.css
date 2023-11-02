@@ -1,0 +1,17 @@
+
+.mynav{
+    width:90%;  
+    margin: auto;
+    margin-top: 10px;
+    background: #ddd;
+    border-radius: 5px;
+    
+}
+.voso_logo{
+    width: 10%;
+ 
+}
+.nav_margin{
+    padding-right: 30px;
+    color:blue; 
+}
